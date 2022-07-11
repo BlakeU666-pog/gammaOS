@@ -5,7 +5,7 @@ To build you simply need nasm (latest version recommended).
 
 gammaOS is still in heavy development and it's nowhere near ready or it still can't even be considered alpha.
 
-gammaOS goal is to be usable for daily use, that means I have to add/make:
+gammaOS goal is to be usable for daily use, that means I have to add/make:  
 -Network Stack  
 -Usable shell (or port an existing shell)  
 -Filesystem support (I still don't know what filesystem I want to support, but I might probably choose FAT32 or ext2. I may even make my own filesystem. We'll see)  
